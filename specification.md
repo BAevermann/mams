@@ -3,7 +3,7 @@
 **Field:** class  
 **Value:** Character string  
 **Description:** Denotes the class of the matrix, array, data frame. One of `fom`, `fam`, `oam`, `fid`, or `oid`.   
-**Notes:** Each class will have a correpsonding set of metadata fields.
+**Notes:** Each class will have a corresponding set of metadata fields.
 
 # FOM class 
 
